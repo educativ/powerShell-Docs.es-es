@@ -1,5 +1,5 @@
 ---
-ms.date: 08/09/2018
+ms.date: 08/09/2019
 keywords: install, windows, linux, macOS, ARM, raspbian
 title: Instalación de PowerShell
 ms.openlocfilehash: b89f11c36459bd0b03693d89ae3ff6f1327ea755
@@ -26,3 +26,5 @@ Consulte los siguientes artículos para obtener más información acerca de cóm
 - [Instalación de PowerShell Core en Linux](Installing-PowerShell-Core-on-Linux.md)
 - [Instalación de PowerShell Core en macOS](Installing-PowerShell-Core-on-macOS.md)
 - [Instalación de PowerShell Core en ARM](PowerShell-Core-on-ARM.md)
+- [Instalación de PowerShell Core en Android](PowerShell-Core-on-Android.md)
+- [Instalación de PowerShell Core en Ios](PowerShell-Core-on-Ios.md)
